@@ -1,22 +1,27 @@
 [
     {
-      "Name": "Eric Pogue",
-      "Email": "epogue@lewisu.edu",
-      "ContactURL": "https://thunderbird-index.azurewebsites.net/w0a6zk195e.json"
+      "Name": "Jonathan Villa",
+      "Email": "jonathanvilla@lewisu.edu",
+      "ContactURL": "https://my-information-jv.azurewebsites.net/my-superhero-jv.json"
     },
     {
-      "Name": "Eric Pogue",
-      "Email": "epogue@lewisu.edu",
-      "ContactURL": "https://thunderbird-index.azurewebsites.net/w0a6zk195f.json"
+      "Name": "Krzysztof Dziedzic",
+      "Email": "krzysztofdziedzic@lewisu.edu",
+      "ContactURL": "https://psychic-octo-fiesta.azurewebsites.net/as.json"
     },
     {
-      "Name": "Eric Pogue",
-      "Email": "epogue@lewisu.edu",
-      "ContactURL": "https://thunderbird-index.azurewebsites.net/no-last-name.json"
+      "Name": "Dominic Bruno",
+      "Email": "dominicmbruno@lewisu.edu",
+      "ContactURL": "https://my-informations-dmb.azurewebsites.net/hawk-man.json"
     },
     {
-      "Name": "Eric Pogue",
-      "Email": "epogue@lewisu.edu",
-      "ContactURL": "https://thunderbird-index.azurewebsites.net/too-short-a-last-name.json"
+      "Name": "Christopher Duncan",
+      "Email": "christopherMDuncan@lewisu.edu",
+      "ContactURL": "https://oppclass.z20.web.core.windows.net/record002.json"
+    },
+    {
+      "Name": "Christopher Duncan",
+      "Email": "christopherMDuncan@lewisu.edu",
+      "ContactURL": "https://oppclass.z20.web.core.windows.net/record003.json"
     }
   ]
